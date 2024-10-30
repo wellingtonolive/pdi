@@ -4,8 +4,9 @@ PDI
 
 ## 1. Objetivo Profissional
 - **Curto prazo (6 meses):** Desenvolver habilidades com criptografia e aprimorar conhecimentos nos serviços da AWS
+- *Curto prazo* (3-4 meses): ** Assumir cadeira de senior atuando cada vez mais em todas etapas dos projetos
 - **Médio prazo (1-2 anos):** Tornar-se um desenvolvedor backend com habilidades em criptografia.
-- **Longo prazo (5 anos):** Assumir posição de liderança, capaz de orquestrar equipes tecnicamente assim como propor desenhos de soluções e cases técnicos
+- **Longo prazo (2-3 anos):** Assumir posição de liderança, capaz de orquestrar equipes tecnicamente assim como propor desenhos de soluções e cases técnicos
 
 ## 2. Análise de Competências
 ### Competências Técnicas (Hard Skills)
@@ -13,7 +14,8 @@ PDI
 - **Conhecimentos atuais:**
 - Linguagens: Java, Python, HCL (Intermediário/Avançado)
 - Ferramentas: Git, VSCode, Intellij, Terraform
-- Frameworks: SpringBoot, Spring Web Flux (Intermediário),
+- Arquitetura: Draw IO
+- Frameworks: SpringBoot, Spring Web Flux (Intermediário)
 - **Áreas a desenvolver:**
 - Frameworks: SpringBoot, Spring Web Flux, Spring Cloud Gateway
 - Backend: Criptografia, Banco de Dados (SQL/MySQL/NoSQL), API REST Full
@@ -22,6 +24,9 @@ PDI
 - **Conhecimentos atuais:**
 - Trabalho em equipe
 - Resolução de problemas
+- Desenho de Solução
+- Desenho da Arquitetura de Soluções
+- Quem ensina, aprende ao ensinar. E quem aprende, ensina ao aprender
 - **Áreas a desenvolver:**
 - Comunicação eficaz
 - Liderança e gestão de projetos
