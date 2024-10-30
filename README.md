@@ -3,7 +3,7 @@ PDI
 # Plano de Desenvolvimento Individual (PDI)
 
 ## 1. Objetivo Profissional
-- **Curto prazo** (3-4 meses): ** Assumir cadeira de senior atuando cada vez mais em todas etapas dos projetos
+- **Curto prazo (3-4 meses):** Assumir cadeira de senior atuando cada vez mais em todas etapas dos projetos
 - **Curto prazo (6 meses):** Desenvolver habilidades com criptografia e aprimorar conhecimentos nos serviços da AWS
 - **Médio prazo (1-2 anos):** Tornar-se um desenvolvedor backend com habilidades em criptografia.
 - **Longo prazo (2-3 anos):** Assumir posição de liderança, capaz de orquestrar equipes tecnicamente assim como propor desenhos de soluções e cases técnicos
